@@ -1,0 +1,58 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-weight: bold;
+    font-size: 5vh;
+}
+.log-in-form{
+    align-content: center;
+    padding: 1vh;
+    padding-left: 15vh;
+}
+
+.log-in-page{
+    background-image: url("../images/white-background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img{
+    width: 35px;
+    padding-right: 15px;
+}
+.btn{
+    width: 100%;
+    border-color: grey;
+    border-radius: 3vh;
+    padding: 1.5vh;
+    font-weight: bold;
+}
+.log-in-button{
+    background-color: indigo;
+    color: white;
+}
+a{
+    color: indigo;
+    text-decoration: none;
+}
+.form-group{
+    padding-top: 1.5vh;
+    padding-bottom: 1.5vh;
+}
+label{
+    padding-left: 2vh;
+    font-weight: bold;
+}
+.form-control{
+    border-radius: 3vh;
+    padding: 1.5vh;
+    padding-left: 2vh;
+}
+.welcome-page{
+    background-image: url("../images/page.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row{
+    padding-top: 3vh;
+}
